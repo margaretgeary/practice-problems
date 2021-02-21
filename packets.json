@@ -1,0 +1,55 @@
+{
+    "packets": [
+        {
+            "source": "10.0.0.1",
+            "destination": "172.169.20.15",
+            "suspicious": 1
+        },
+        {
+            "source": "10.0.0.2",
+            "destination": "172.169.20.10",
+            "suspicious": 0
+        },
+        {
+            "source": "10.0.0.1",
+            "destination": "172.169.20.2",
+            "suspicious": 0
+        },
+        {
+            "source": "10.0.0.1",
+            "destination": "172.169.20.1",
+            "suspicious": 0
+        },
+        {
+            "source": "10.0.0.1",
+            "destination": "172.30.20.15",
+            "suspicious": 1
+        },
+        {
+            "source": "10.0.0.1",
+            "destination": "172.169.1.100",
+            "suspicious": 0
+        },
+        {
+            "source": "10.0.0.1",
+            "destination": "172.169.1.100",
+            "suspicious": 1
+        },
+        {
+            "source": "10.0.0.1",
+            "destination": "172.169.1.100",
+            "suspicious": 0
+        },
+        {
+            "source": "10.0.0.1",
+            "destination": "172.169.1.100",
+            "suspicious": 0
+        },
+        {
+            "source": "10.0.0.1",
+            "destination": "172.169.1.100",
+            "suspicious": 0
+        }
+        
+    ]
+}
